@@ -20,4 +20,5 @@ At first, I made the leaves out of very thin, sticky paper and the “branches�
 The next obstacle happened when I figured out the connection didn’t work that well. After some examination, I found out that the area taken by taping the wire to the copper side of leave was too big that sometimes although these two leaves touched, it wouldn’t light up the LEDs because some copper area will touch the tape area. Hence, I adjusted the width and the length of the tape and it worked better.
 Here is my image
 
-![](Project-One.jpg)
+![](Project One.jpg)
+![](Project One whole.jpg)
