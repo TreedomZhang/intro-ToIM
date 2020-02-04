@@ -19,3 +19,5 @@ There are mainly two obstacles in the process.
 At first, I made the leaves out of very thin, sticky paper and the “branches” out of very narrow copper tape attached to the sticky side of the paper. This led to the situation that when blowing the two leaves, it was more possible for the sticky non-conductive paper part stick together with conductive leave part par apart. Confronting this, I changed the material of the leaves into plain paper and use larger copper tape and stuck them together and then cut them out. The problem was solved.
 The next obstacle happened when I figured out the connection didn’t work that well. After some examination, I found out that the area taken by taping the wire to the copper side of leave was too big that sometimes although these two leaves touched, it wouldn’t light up the LEDs because some copper area will touch the tape area. Hence, I adjusted the width and the length of the tape and it worked better.
 
+Here is my image
+![Project One ]
