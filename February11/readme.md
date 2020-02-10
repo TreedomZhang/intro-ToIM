@@ -4,5 +4,5 @@ When the switch if off (buttonState=0), the traffic lights will function will- t
 
 Here is the schematic:
 
-![](secondAssignmentSchematic)
+![](secondAssignmentSchematic.jpg)
 
