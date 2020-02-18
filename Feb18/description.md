@@ -16,4 +16,4 @@ I want to do somethinf that is if the sensor value is smaller than certain amoun
 ![](assignmentTwoSchematicsPicture.jpg)
 
 *Project*
-![](assignmentTwoProjectPicture.jpg
+![](assignmentTwoProjectPicture.jpg)
