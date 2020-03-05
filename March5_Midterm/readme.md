@@ -6,7 +6,7 @@
 
 This project contains two major parts: 1. A cross-like pen delivery machine and 2. The circuit.
 
-The cross-like pen delivery machine part:
+*The cross-like pen delivery machine part:
 
 Step 1: A cross-like shape (r = 14cm) was cut out of cardboard. Four smaller rectangular (3cm * 2.5cm) pieces were cut and hotglued to the cross-like shape cardboard as pen holders. 
 
@@ -22,7 +22,11 @@ Step 5: Now the pens, the cross-like pen holder, and the stepper motor all move 
 
 ![](hotgluesteppermotor.jpg)
 
-More detailedly, the sound for Morse code is achieved by 1. use different pitches to indicate different letter (for example C4 for R and A3 for I), 2. use different duration to indicate whether it's a dot (2000/8) or a dash (2000/4), 3. between each letter there will be a 0 note to indicate pause the duration is the same as a dot.
+*The circuit part:
+
+Three buttons (red, blue, and green) were connected to pin 3,2,4 respectively. Four LEDs (green, yellow, red, and blue) were connected to pin 10,9,6,5. A buzzer was connected to 7. A potentiometer was connected to A5. A light sensor was connected to A4. An Adafruit Motor Shield V2 was connected to the red board and the stepper motor is connected to it like this:
+![](midtermprojectredboardpart.jpg)
+
 
 **Difficulties**
 
