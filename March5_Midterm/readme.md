@@ -2,7 +2,7 @@
 
 "Pen Delivery Machine"
 
-**Detail Description**
+**Detail Description:**
 
 This project contains two major parts: 1. A cross-like pen delivery machine and 2. The circuit.
 
@@ -35,7 +35,7 @@ Basically, if someone approach the delivery machine (analogRead of potentiometer
 Here is the link of my project
 [video](https://youtu.be/E5f5ftX6dHM)
 
-**Difficulties**
+**Difficulties:**
 
 Difficulty 1: How to find a motor that can turn more than 180 degree and can hold heavy penholder and pens. After asking the peers and professor, I used the stepper motor. In order to make it work, I had to use the adafruit motor shield V2 to connect the stepper motor with the red board. Also I have to download files about the adafruit motor shield V2 from the library and use the code example: stepper test.
 
@@ -45,11 +45,11 @@ Difficulty 2: How to attach the cross-like pen holder to the stepper motor firml
 Difficulty 3: REMAIN UNSOLVED! I want to attach the stepper motor to the platform wood board. However, neither hotglue nor ziptag works. Both of them can make the stepper motor stay on the board stably, however, once the stepper motor was fixated to a fix position, it started figetting or not turning/functioning well. I don't know why.
 
 
-**Schematic**
+**Schematic:**
 ![](midtermschematic.jpg)
 
 
-**Photos of the project**
+**Photos of the project:**
 
 ![](midtermprojectwhole.jpg)
 
