@@ -25,8 +25,12 @@ Step 5: Now the pens, the cross-like pen holder, and the stepper motor all move 
 *The circuit part:
 
 Three buttons (red, blue, and green) were connected to pin 3,2,4 respectively. Four LEDs (green, yellow, red, and blue) were connected to pin 10,9,6,5. A buzzer was connected to 7. A potentiometer was connected to A5. A light sensor was connected to A4. An Adafruit Motor Shield V2 was connected to the red board and the stepper motor is connected to it like this:
+
 ![](midtermprojectredboardpart.jpg)
 
+**How does it work?**
+
+Basically, if someone approach the delivery machine (analogRead of potentiometer is lower than 900), the whole process will start. The LEDs will blink in order (green, yellow, red, blue) and the delay amount (or visually speaking "speed") can be controlled by potentiometer. The default is the black pen facing forward, and if you press the green button, the stepper motor will turn 180 degree clockwise to deliver the green pen and go back to the default position. If the blue button is pressed, the stepper motor will turn 90 degree counterclockwise to deliver the blue pen and go back to the default position. If the red button is pressed, the stepper motor will turn 90 degree clockwise to deliver the red pen, and the buzzer will play some melody to imply that the teacher is using red pen to underline something important and then go back to the default position. 
 
 **Difficulties**
 
