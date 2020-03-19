@@ -7,7 +7,7 @@ The interesting parts of my portrait are: 1. The changing color sun glasses. It 
 2. The blowing bubble gum. The radius of the bubble gum will change according to "mouseX" which is mapped from "0-width" to "10-80". Generally, the radius will increase when you move the mouse from left to right but the bubble will pop when your mouse is too right (mouseX >700).
 
 **Here is the picture of my portrait:**
-![](selfPortraitWhole.jpg)
+![](selfPortraitWhole.png)
 
 
 **Problems I faced:**
