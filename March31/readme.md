@@ -10,3 +10,4 @@ After this, I drew two moving circles using the concept of perlin noise. It was 
 This is the picture of my assignment
 ![](march31Assignment.png)
 
+I met one problem while doing this assignment that although I created a loop, it could only draw one irregular circle. Later, I figured out the the reason behind it. I defined the float and int within the loop. To fix it, I defined them outside the loop.
