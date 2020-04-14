@@ -10,4 +10,6 @@ The name of that perticular CSV file I used is "API_AG.LND.TOTL.K2_DS2_en_csv_v2
 
 What I wanted to achieve is that each time I press one key, the circle/country will appear in its position. However, each time I press the key, there will be two identical circles appearing on the screen, with one on the wrong position and the other on the right position but requires continuous pressing to show on the screen. Here is the video that reflects the problem.[video](https://youtu.be/s9oT7UJ3ni8)
 
-This is the picture of the circles that appear on the wrong position.![](wrongpos.png)
+This is the picture of the circles that appear on the wrong position.
+
+![](wrongpos.png)
