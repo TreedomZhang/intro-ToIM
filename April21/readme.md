@@ -12,4 +12,6 @@ Finally, I made two small changes:
 
 2. The weight of the stroke is set accoding to the speed of the rotater, becase the speed is so small so I make the difference obvious by mapping it and setting the range 0-500. In this case, the slower the rotater is, the thinner the line is.
 
+!()[april21pic.png]
+
 
