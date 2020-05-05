@@ -11,5 +11,5 @@ In the future version I want to accomplish four more major points:
 
 3. The position of the bug will be the position of the user's mouth use the video function instead of the position of the mouse.  
 
-
+There is also one element I want to debug which is after the bug eats one candy, I want that candy to disappear instead of continue to show on the screen. 
 
