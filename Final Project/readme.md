@@ -7,7 +7,7 @@ In the future version I want to accomplish four more major points:
 
 1. The color of the bug can be chosen based on the user's preference at the beginning of this game, a color palette will be provided.
 
-2. There will be multiple scenes to make the game more complete: eg. the game openning scene, the color choosing scene, the instruction scene, and the ending scene.
+2. There will be multiple scenes to make the game more complete: eg. the game openning scene, the color choosing scene, the instruction scene, and the ending scene (include a total record of the score).
 
 3. The position of the bug will be the position of the user's mouth use the video function instead of the position of the mouse.  
 
