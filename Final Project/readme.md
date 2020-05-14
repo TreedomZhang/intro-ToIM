@@ -28,7 +28,7 @@ The good thing about my project is that I make it aesthetically pleasing.
 
 The things I still need to improve is to find a way to make the game more interactive.
 
-**Pictures
+**Pictures**
 
 ![](bugIntro.png)
 ![](bugChooseColor.png)
